@@ -1,0 +1,20 @@
+# Abaikan folder catatan riset & berkas referensi PDF
+file_md/
+referensi/
+
+# Python artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+.ipynb_checkpoints/
+
+# Virtual Environment (jika ada)
+.venv/
+venv/
+env/
+
+# System / OS
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
